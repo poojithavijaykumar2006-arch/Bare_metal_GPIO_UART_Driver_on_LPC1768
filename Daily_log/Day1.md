@@ -28,7 +28,7 @@ Learned:
 
 ### 3. Functions
 
-```c id="v6d6sw"
+```c 
 void uart_init();
 void uart_send_char(char c);
 ```
@@ -40,7 +40,7 @@ Learned:
 
 ### 4. Arrays & Strings
 
-```c id="n6e4d0"
+```c 
 char buffer[50];
 ```
 
