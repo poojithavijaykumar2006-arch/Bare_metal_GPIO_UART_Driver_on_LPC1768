@@ -9,7 +9,7 @@ As part of learning embedded systems and bare-metal programming, I focused on th
 
 Used for accessing hardware registers through memory addresses.
 
-```c id="v3t8n5"
+```c 
 #define GPIO0_DIR (*(volatile unsigned int*)0x2009C000)
 ```
 
