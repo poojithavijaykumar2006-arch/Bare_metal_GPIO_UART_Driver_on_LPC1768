@@ -168,12 +168,3 @@ This helps monitor program execution in real time.
 
 ---
 
-## Key Points
-
-- UART is commonly used for debugging.
-- PINSEL configures TX and RX pins.
-- Baud rate defines communication speed.
-- U0THR sends data.
-- U0LSR indicates UART status.
-- Terminal software displays UART messages.
-- Serial debugging helps verify program execution and sensor values.
