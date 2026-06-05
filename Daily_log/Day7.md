@@ -83,4 +83,11 @@ void RX(void)
 
 ![UART Debug](../uart_driver_output.jpeg)
 
+### LCD  Output Images
 
+![LCD Output](../onlpcboard.jpeg)
+
+
+## Conclusion
+
+The project demonstrates UART communication on the LPC1768 GSAS board with real-time data visualization on a 16x2 LCD. The successful display of received data on the LCD verifies the correct operation of both the UART driver and the LCD interface.
