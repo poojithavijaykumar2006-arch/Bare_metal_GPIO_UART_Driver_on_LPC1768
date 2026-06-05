@@ -81,4 +81,4 @@ void RX(void)
 
 ### UART Driver Debug Output
 
-![UART Debug](images\uart_driver_ouput.jpeg)
+![UART Debug](../uart_driver_output.jpeg)
